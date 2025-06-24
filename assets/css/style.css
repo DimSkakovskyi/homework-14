@@ -1,0 +1,27 @@
+.bg-primary, .btn-primary{
+  background-color:#56b079 !important;
+}
+
+.accordion-button:not(.collapsed){
+  background-color:#68d391;
+}
+
+.form-check-input:checked{
+  background-color:#56b079 !important;
+}
+
+.text-primary{
+  color:#56b079 !important;
+}
+
+.h1, .h2{
+  display:block;
+  text-align:center;
+  line-height:100px;
+}
+
+.h5{
+  display:block;
+  text-align:center;
+  line-height:50px;
+}
